@@ -1,0 +1,5 @@
+COMO USAR:
+    -- informe os processos que deverao ser encerrados no arquivo processos.cfg (em cada linha devera ser colocado o nome do processo)
+    -- informe os executaveis que serao baixados no arquivo executaveis.cfg (em cada linha coloque o nome do executavel)
+    -- informe os diretorios que serao usados para inserir os executaveis baixados no arquivo diretorios.cfg (em cada linha coloque o caminho completo do diretorio)
+    -- informe o repositorio online no arquivo repositori.cfg
